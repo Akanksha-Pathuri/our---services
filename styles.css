@@ -1,0 +1,21 @@
+/* Custom CSS for the background inside the services section */
+.services-container {
+    background: linear-gradient(to bottom right, rgb(32, 32, 110) 60%, #f3f4f6 40%);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+/* White background for the outer section */
+#assignment {
+    background-color: #ffffff;
+    padding: 50px 0;
+}
+
+.icon-container {
+    top: -30px; /* Adjusting to move the icon above the card */
+}
+
+/* Animation class */
+.rotate {
+    transition: transform 0.5s ease;
+}
